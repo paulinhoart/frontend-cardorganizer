@@ -1,0 +1,5 @@
+comandos uteis
+
+acessar banco na nuvem
+mysql -uroot -p
+
